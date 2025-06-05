@@ -12,5 +12,5 @@ config_version=5
 
 config/name="throwing_shade"
 run/main_scene="res://scenes/shaders_101.tscn"
-config/features=PackedStringArray("4.2", "Forward Plus")
+config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
